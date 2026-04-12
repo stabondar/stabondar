@@ -2,7 +2,7 @@
 
 Front-end Developer specializing in interactive web experiences, WebGL, 3D graphics, and motion design.
 
-I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **Sanity CMS** — deployed on **Cloudflare** and **Vercel**.
+I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **Sanity CMS**
 
 ### What I work with
 
