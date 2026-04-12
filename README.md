@@ -10,8 +10,6 @@ I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **
 
 **Creative** — Three.js, WebGL, GLSL, GSAP, Lenis, Barba.js 🎨
 
-**CMS & Backend** — Sanity, Astro Actions, Cloudflare Workers ☁️
-
 ### Links 🔗
 
 🌍 [stabondar.com](https://stabondar.com)
