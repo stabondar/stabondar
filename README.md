@@ -1,17 +1,17 @@
-# Hey, I'm Stas
+# Hey, I'm Stas 👋
 
-Front-end Developer specializing in interactive web experiences, WebGL, 3D graphics, and motion design.
+Front-end Developer specializing in interactive web experiences, WebGL, 3D graphics, and motion design ✨
 
-I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **Sanity CMS**
+I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **Sanity CMS** 🚀
 
-### What I work with
+### What I work with 🧰
 
-**Frontend** &mdash; Astro, React, Svelte, TypeScript, Tailwind CSS
+**Frontend** — Astro, React, Svelte, TypeScript, Tailwind CSS ⚡
 
-**Creative** &mdash; Three.js, WebGL, GLSL, GSAP, Lenis, Barba.js
+**Creative** — Three.js, WebGL, GLSL, GSAP, Lenis, Barba.js 🎨
 
-**CMS & Backend** &mdash; Sanity, Astro Actions, Cloudflare Workers
+**CMS & Backend** — Sanity, Astro Actions, Cloudflare Workers ☁️
 
-### Links
+### Links 🔗
 
-[stabondar.com](https://stabondar.com)
+🌍 [stabondar.com](https://stabondar.com)
