@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @stabondar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Stas
 
-<!---
-stabondar/stabondar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-end Developer specializing in interactive web experiences, WebGL, 3D graphics, and motion design.
+
+I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **Sanity CMS** — deployed on **Cloudflare** and **Vercel**.
+
+### What I work with
+
+**Frontend** &mdash; Astro, React, Svelte, TypeScript, Tailwind CSS
+
+**Creative** &mdash; Three.js, WebGL, GLSL, GSAP, Lenis, Barba.js
+
+**CMS & Backend** &mdash; Sanity, Astro Actions, Cloudflare Workers
+
+### Links
+
+[stabondar.com](https://stabondar.com)
