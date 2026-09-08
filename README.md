@@ -8,7 +8,7 @@ I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **
 
 **Frontend** — Astro, React, Svelte, TypeScript, Tailwind CSS ⚡
 
-**Creative** — Three.js, WebGL, GLSL, GSAP, Lenis, Barba.js 🎨
+**Creative** — Three.js, WebGL, GLSL, GSAP 🎨
 
 ### Links 🔗
 
