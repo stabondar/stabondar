@@ -1,6 +1,10 @@
-# Hey, I'm Stas 👋
+# Hey ✌️
 
-Front-end Developer specializing in interactive web experiences, WebGL, 3D graphics, and motion design ✨
+I'm Stas, a Freelance Creative Developer
+
+I build websites for brands, studios and agencies. Interactive, animated, carefully engineered and award-winning. Since 2022 I've also been judging other works as a Member of the Awwwards Jury.
+
+Now I'm building [Loopsii](https://loopsii.com), the all-in-one app for freelancers, with clients, projects, time, invoices and meeting notes in one place.
 
 I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **Sanity CMS** 🚀
 
@@ -13,3 +17,5 @@ I build high-performance websites with **Astro**, **Three.js**, **GSAP**, and **
 ### Links 🔗
 
 🌍 [stabondar.com](https://stabondar.com)
+
+🔁 [loopsii.com](https://loopsii.com)
